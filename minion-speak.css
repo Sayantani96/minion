@@ -29,6 +29,7 @@ body{
     padding:25px;
     border:0; 
     font-size:25px; 
+    cursor: pointer;
 }
 
 .button-content{
